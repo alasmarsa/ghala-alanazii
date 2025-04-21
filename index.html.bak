@@ -80,7 +80,7 @@
 
   <header>
     <img src="png.png" alt="شعار المعهد">
-    <h1>  التسجيل في معهد الشمال الثقافي العالي لتدريب</h1>
+    <h1>التسجيل في المعهد</h1>
   </header>
 
   <div class="container">
@@ -99,8 +99,7 @@
         <!-- تمنع ظهور صفحة FormSubmit بعد الإرسال -->
         <input type="hidden" name="_captcha" value="false">
         <!-- توجه المستخدم لصفحة شكر بعد الإرسال -->
-        <input type="hidden" name="_next" value="https://اسم_المستخدم.github.io/اسم_المستودع/thanks.html">
-
+        <input type="hidden" name="_next" value="thanks.html">
 
         <div class="form-group">
           <label for="name">الاسم الثلاثي:</label>
